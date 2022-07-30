@@ -5,3 +5,5 @@ https://isc.sans.edu/forums/diary/Malspam+pushes+Matanbuchus+malware+leads+to+Co
 https://medium.com/@DCSO_CyTec/a-deal-with-the-devil-analysis-of-a-recent-matanbuchus-sample-3ce991951d6a
 
 https://unit42.paloaltonetworks.com/matanbuchus-malware-as-a-service/
+
+https://www.cyberark.com/resources/threat-research-blog/inside-matanbuchus-a-quirky-loader
